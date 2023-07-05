@@ -15,5 +15,5 @@ summary: "Gun, the father of Yu the Great, is the earliest recorded member of th
 source: https://en.wikipedia.org/wiki/Xia_dynasty
 
 topic: Three Sovereigns and Five Emperors
-The Three Sovereigns and Five Emperors were a group of mythological rulers and sheng (sages) from ancient China.
+summary: "The Three Sovereigns and Five Emperors were a group of mythological rulers and sheng (sages) from ancient China."
 source: https://en.wikipedia.org/wiki/Three_Sovereigns_and_Five_Emperors
