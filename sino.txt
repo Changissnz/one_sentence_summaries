@@ -9,3 +9,11 @@ source: https://en.wikipedia.org/wiki/Xia_dynasty
 topic: Origin of the Xia Dynasty
 summary: "Traditional histories trace the development of the Xia to the mythical Three Sovereigns and Five Emperors."
 source: https://en.wikipedia.org/wiki/Xia_dynasty
+
+topic: Xia clan
+summary: "Gun, the father of Yu the Great, is the earliest recorded member of the Xia clan."
+source: https://en.wikipedia.org/wiki/Xia_dynasty
+
+topic: Three Sovereigns and Five Emperors
+The Three Sovereigns and Five Emperors were a group of mythological rulers and sheng (sages) from ancient China.
+source: https://en.wikipedia.org/wiki/Three_Sovereigns_and_Five_Emperors
