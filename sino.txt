@@ -6,3 +6,6 @@ topic: Xia dynasty
 summary: "The Xia dynasty is the first dynasty in traditional Chinese historiography."
 source: https://en.wikipedia.org/wiki/Xia_dynasty
 
+topic: Origin of the Xia Dynasty
+summary: "Traditional histories trace the development of the Xia to the mythical Three Sovereigns and Five Emperors."
+source: https://en.wikipedia.org/wiki/Xia_dynasty
