@@ -10,7 +10,7 @@ Below is a screenshot:
 
 ![decision_oss](https://github.com/Changissnz/one_sentence_summaries/assets/41529565/fbfc0e65-adc2-4de3-af7a-63c6c5415370)
 
-Sino history it is! I will go through the various dynasties in chronological order, and choose historical figures
+Sino history it is! I will go through the various dynasties in chronological order, and choose noteworthy topics
 to write one-sentence summaries about. 
 
 Go to `sino.txt` to see the summaries!
