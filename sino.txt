@@ -42,4 +42,8 @@ topic: Modern Interpretation of the Xia Dynasty
 summary: "The time gap between the supposed time of the Xia and the first written references to it have meant that the historicity of the Xia dynasty itself and the traditional narrative of its history are at best uncertain."
 source: https://en.wikipedia.org/wiki/Xia_dynasty
 
+topic: Sarah Allan's Interpretation of the Xia Dynasty
+summary: "In The Shape of the Turtle: Myth, Art, and Cosmos in Early China, Sarah Allan noted that many aspects of the Xia are simply the opposite of traits held to be emblematic of the Shang."
+source: https://en.wikipedia.org/wiki/Xia_dynasty
+
 
