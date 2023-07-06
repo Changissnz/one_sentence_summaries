@@ -44,6 +44,6 @@
 
 `topic`: Sarah Allan's Interpretation of the Xia Dynasty\
 `summary`: "In The Shape of the Turtle: Myth, Art, and Cosmos in Early China, Sarah Allan noted that many aspects of the Xia are simply the opposite of traits held to be emblematic of the Shang."\
-`source`: https://en.wikipedia.org/wiki/Xia_dynasty\
+`source`: https://en.wikipedia.org/wiki/Xia_dynasty
 
 
