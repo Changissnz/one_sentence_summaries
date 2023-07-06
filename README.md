@@ -13,4 +13,4 @@ Below is a screenshot:
 Sino history it is! I will go through the various dynasties in chronological order, and choose noteworthy topics
 to write one-sentence summaries about. 
 
-Go to `sino.txt` to see the summaries!
+Go to `sino.md` to see the summaries!
